@@ -1,16 +1,10 @@
-Here’s an updated and more polished version of your README file for the **Quiz App** with placeholders for screenshots. This version adds more structure, emphasizes key features, and includes a callout for your screenshots.
-
----
-
 # Quiz App
 
 ## Introduction
 
 The **Quiz App** is an interactive web application designed to enhance your learning experience with a variety of topics. Whether you're preparing for exams or just testing your knowledge, this app offers a fun and engaging quiz-taking process. Featuring multiple-choice questions, a built-in timer, and animations, it helps you improve your learning in a more enjoyable way. The app remembers your progress and provides a personalized experience by saving your name and quiz results.
 
-You can also easily remove any names you've added at any time to maintain a clean user experience.
-
----
+## You can also easily remove any names you've added at any time to maintain a clean user experience.
 
 ## Features
 
@@ -61,14 +55,15 @@ Follow these steps to install and run the **Quiz App** locally:
 ## Screenshots
 
 Below are some screenshots showcasing the **Quiz App** in action:
-
+![Home](./src/assets/home.png)
+_The home page where users enter their names to begin their quiz journey.
 ![Topic Selection](./src/assets/topic.png)  
-_Choose your quiz topic from the available options._
+\_Choose your quiz topic from the available options._
 
-![Quiz Interface](./screenshots/quiz-interface.png)  
+![Quiz Interface](./src/assets/quiz-interface.png)  
 _A user-friendly quiz interface where questions are displayed one at a time._
 
-![Results](./screenshots/results.png)  
+![Results](./src/assets/results.png)  
 _Results are shown with smooth animations after completing the quiz._
 
 ---
